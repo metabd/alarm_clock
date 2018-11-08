@@ -1,3 +1,3 @@
 # alarm_clock
-When it is time to alarm , the program will open videos using browser
-you can edit video.conf to add you video list
+When it is time to alarm , the app will play videos using browser.
+You can edit video.conf to add you video list.
